@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include shopperpro *.css
+recursive-include shopperpro *.csv
+recursive-include shopperpro *.html
+recursive-include shopperpro *.ico
+recursive-include shopperpro *.js
+recursive-include shopperpro *.json
+recursive-include shopperpro *.md
+recursive-include shopperpro *.png
+recursive-include shopperpro *.py
+recursive-include shopperpro *.svg
+recursive-include shopperpro *.txt
+recursive-exclude shopperpro *.pyc
