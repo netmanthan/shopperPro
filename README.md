@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://frappecloud.com/files/pos.png" height="128">
+    <img src="[https://frappecloud.com/files/pos.png](https://github.com/netmanthan/shopperPro/blob/main/shopperpro/public/js/posapp/components/pos/pos.svg)" height="128">
     <h2>SHOPPER PRO</h2>
 </div>
 
