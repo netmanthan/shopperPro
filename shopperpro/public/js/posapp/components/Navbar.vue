@@ -176,7 +176,7 @@ export default {
     },
     go_about() {
       const win = window.open(
-        'https://github.com/netmanthan/shopperpro',
+        'https://sparrownova.com/shopperpro',
         '_blank'
       );
       win.focus();
