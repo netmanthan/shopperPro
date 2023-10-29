@@ -3,7 +3,7 @@
     <h2>SHOPPER PRO</h2>
 </div>
 
-#### An open-source Point of Sale for [Erpnext](https://github.com/netmanthan/sparrow) using [Vue.js](https://github.com/vuejs/vue) and [Vuetify](https://github.com/vuetifyjs/vuetify)
+#### An open-source Point of Sale for [sparrow](https://github.com/netmanthan/sparrow) using [Vue.js](https://github.com/vuejs/vue) and [Vuetify](https://github.com/vuetifyjs/vuetify)
 
 ---
 
@@ -93,7 +93,7 @@ Available in GitHub [discussions](https://github.com/netmanthan/shopperpro/discu
 ### Dependencies:
 
 - [Frappe](https://github.com/frappe/frappe)
-- [Erpnext](https://github.com/netmanthan/sparrow)
+- [sparrow](https://github.com/netmanthan/sparrow)
 - [Vue.js](https://github.com/vuejs/vue)
 - [Vuetify.js](https://github.com/vuetifyjs/vuetify)
 
@@ -101,7 +101,7 @@ Available in GitHub [discussions](https://github.com/netmanthan/shopperpro/discu
 
 ### Contributing
 
-Will using for this the same guidelines from Erpnext
+Will using for this the same guidelines from sparrow
 
 1. [Issue Guidelines](https://github.com/netmanthan/sparrow/wiki/Issue-Guidelines)
 2. [Pull Request Requirements](https://github.com/netmanthan/sparrow/wiki/Contribution-Guidelines)

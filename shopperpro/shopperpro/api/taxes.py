@@ -7,8 +7,8 @@ from __future__ import unicode_literals
 
 # import frappe
 from frappe.utils import flt
-from erpnext.controllers.taxes_and_totals import calculate_taxes_and_totals
-from erpnext.accounts.doctype.sales_invoice.sales_invoice import SalesInvoice
+from sparrow.controllers.taxes_and_totals import calculate_taxes_and_totals
+from sparrow.accounts.doctype.sales_invoice.sales_invoice import SalesInvoice
 
 
 class custom_calculate_taxes_and_totals(calculate_taxes_and_totals):

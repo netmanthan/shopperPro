@@ -158,7 +158,7 @@ export default {
       snackColor: '',
       snackText: '',
       company: 'Shopper Pro',
-      company_img: '/assets/erpnext/images/erpnext-logo.svg',
+      company_img: '/assets/sparrow/images/sparrow-logo.svg',
       pos_profile: '',
       freeze: false,
       freezeTitle: '',
